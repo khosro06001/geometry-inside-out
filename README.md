@@ -2,7 +2,7 @@
 
 ### A visual construction revealing the dot product as a geometric area, with implications for the structure of mathematics.
 
-**K. Pourkavoos, 2026**
+**Khosro Pourkavoos, 2026**
 
 ---
 
