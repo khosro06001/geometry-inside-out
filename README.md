@@ -1,6 +1,6 @@
 # Geometry from the Inside Out
 
-### A visual construction revealing the dot product as a geometric area, with implications for dimension, intersection, and the structure of mathematics.
+### A visual construction revealing the dot product as a geometric area, with implications for the structure of mathematics.
 
 **K. Pourkavoos, 2026**
 
